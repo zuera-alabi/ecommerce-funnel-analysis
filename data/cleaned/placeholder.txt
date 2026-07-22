@@ -1,1 +1,5 @@
-This folder contains the cleaned dataset
+The cleaned dataset contains 885,130 rows and exceeds 
+GitHub's file size limit.
+
+The cleaning process is documented in:
+notebooks/01_data_cleaning.ipynb
