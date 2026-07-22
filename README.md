@@ -34,25 +34,27 @@ rates, improve conversion performance and maximise revenue.
 ## 🛠️ Tools & Technologies
 | Tool | Purpose |
 |------|---------|
-| Python (Pandas, Plotly, NumPy) | Data cleaning and manipulation |
-| Matplotlib & Seaborn | Data visualisation |
+| Python (Pandas, NumPy) | Data cleaning and manipulation |
+| Matplotlib & Plotly | Data visualisation |
 | Jupyter Notebook | Analysis and documentation |
 | GitHub | Version control and documentation |
 
 ## 📁 Project Structure
+```
 ecommerce-funnel-analysis/
 │
 ├── data/
-│ ├── raw/ → Original dataset (see Kaggle link)
-│ └── cleaned/ → Cleaned and processed dataset
+│   ├── raw/
+│   └── cleaned/
 │
-├── notebooks/ → Jupyter notebooks
-│ ├── 01_data_cleaning.ipynb
-│ ├── 02_exploratory_analysis.ipynb
-│ └── 03_funnel_analysis.ipynb
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_exploratory_analysis.ipynb
+│   └── 03_funnel_analysis.ipynb
 │
-├── images/ → Chart screenshots
+├── images/
 └── README.md
+```
 
 
 ## 📊 Analysis & Visualisations
