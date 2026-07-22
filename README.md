@@ -76,45 +76,45 @@ ecommerce-funnel-analysis/
 
 ## 🔍 Key Findings
 
-- 📌 Only 6.1% of viewers add to cart and 4.2% complete 
+ ❖ Only 6.1% of viewers add to cart and 4.2% complete 
   a purchase — confirming a clear funnel drop-off pattern
 
-- 📌 The business has a product discovery problem not a 
+ ❖ The business has a product discovery problem not a 
   checkout problem — 91% drop off before adding to cart 
   but 57.66% of cart users complete purchase
 
-- 📌 Videocards dominate platform activity with 116,712 
+ ❖ Videocards dominate platform activity with 116,712 
   events confirming strong GPU demand from PC builders
 
-- 📌 Peak shopping window is 10am-6pm with 40k-45k events 
-  — evening spend yields significantly lower returns
+ ❖ Peak shopping window is 10am-6pm with 40k-45k events, 
+   evening spend yields significantly lower returns
 
-- 📌 A £22.41 price gap exists between average cart price 
-  (£159.65) and purchase price (£137.24) revealing a 14% 
-  price sensitivity threshold
+ ❖ A £22.41 price gap exists between average cart price 
+  (£159.65) and purchase price (£137.24) revealing a 
+  14% price sensitivity threshold
 
-- 📌 Gigabyte represents the greatest revenue opportunity 
+ ❖ Gigabyte represents the greatest revenue opportunity 
   combining high traffic (9,425 views) with strong 
   conversion (11.97%)
 
-- 📌 Sapphire leads all brands with 15.90% conversion rate 
+ ❖ Sapphire leads all brands with 15.90% conversion rate 
   confirming strong PC components demand
 
 ## 💡 Strategic Recommendations
 
-- ❖ Prioritise view-to-cart optimisation — a 2% improvement 
+ ❖ Prioritise view-to-cart optimisation — a 2% improvement 
   adds approximately 8,000 more buyers
 
-- ❖ Focus marketing partnerships on Gigabyte and MSI for 
+ ❖ Focus marketing partnerships on Gigabyte and MSI for 
   maximum revenue impact
 
-- ❖ Introduce Buy Now Pay Later options for items above 
+ ❖ Introduce Buy Now Pay Later options for items above 
   £150 to bridge the price sensitivity gap
 
-- ❖ Develop dedicated gaming audience campaigns targeting 
+ ❖ Develop dedicated gaming audience campaigns targeting 
   Steelseries buyers — high conversion, underleveraged
 
-- ❖ Concentrate promotional spend between 10am and 6pm 
+ ❖ Concentrate promotional spend between 10am and 6pm 
   where traffic peaks at 40k-45k events
 
 ## 👩🏽‍💻 About the Author
