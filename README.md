@@ -77,10 +77,10 @@ ecommerce-funnel-analysis/
 ## 🔍 Key Findings
 
  ❖ Only 6.1% of viewers add to cart and 4.2% complete 
-  a purchase — confirming a clear funnel drop-off pattern
+  a purchase, confirming a clear funnel drop-off pattern
 
  ❖ The business has a product discovery problem not a 
-  checkout problem — 91% drop off before adding to cart 
+  checkout problem, 91% drop off before adding to cart 
   but 57.66% of cart users complete purchase
 
  ❖ Videocards dominate platform activity with 116,712 
@@ -102,7 +102,7 @@ ecommerce-funnel-analysis/
 
 ## 💡 Strategic Recommendations
 
- ❖ Prioritise view-to-cart optimisation — a 2% improvement 
+ ❖ Prioritise view-to-cart optimisation, a 2% improvement 
   adds approximately 8,000 more buyers
 
  ❖ Focus marketing partnerships on Gigabyte and MSI for 
@@ -112,7 +112,7 @@ ecommerce-funnel-analysis/
   £150 to bridge the price sensitivity gap
 
  ❖ Develop dedicated gaming audience campaigns targeting 
-  Steelseries buyers — high conversion, underleveraged
+  Steelseries buyers. High conversion, underleveraged
 
  ❖ Concentrate promotional spend between 10am and 6pm 
   where traffic peaks at 40k-45k events
